@@ -19,4 +19,5 @@ Fun projects I wanted to share with my light humour. I have an interest in softw
 * First modelling and printing experience [Adventures in 3D printing 002](3dPrinting002.md)
 * The GRINCH part1 ! [Adventures in 3D printing 003](3dPrinting003.md)
 * The GRINCH part2 ! [Adventures in 3D printing 004](3dPrinting004.md)
+* The GRINCH part3 ! [Adventures in 3D printing 005](3dPrinting005.md)
 
